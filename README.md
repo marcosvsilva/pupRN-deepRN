@@ -1,3 +1,3 @@
 # AlgoDeepRN
 
-DeepRN for extract pupil behavio!
+DeepRN for extract pupil behavior!
